@@ -1,0 +1,64 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Automatic_Garage_Door_Controller
+T_opt
+!s110 1725654360
+V8QabUWY7M?NJkGW_00@nC0
+04 35 4 work tb_Automatic_Garage_Door_Controller fast 0
+=1-c8d3fff0bc70-66db6557-373-28b4
+o-quiet -auto_acc_if_foreign -work work +accs
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.6d;65
+R0
+vAutomatic_Garage_Door_Controller
+!s110 1725654430
+!i10b 1
+!s100 `b7CLZZg]kJ9=dVGck_950
+I18>]N[NI1n>8Vb74hEz9i3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1725619027
+8Automatic_Garage_Door_Controller.v
+FAutomatic_Garage_Door_Controller.v
+L0 1
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1725654430.000000
+Z5 !s107 Automatic_Garage_Door_Controller_tb.v|Automatic_Garage_Door_Controller.v|
+Z6 !s90 -reportprogress|300|-f|sourcefile.txt|
+!i113 0
+Z7 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@automatic_@garage_@door_@controller
+vtb_Automatic_Garage_Door_Controller
+!s110 1725654359
+!i10b 1
+!s100 ?3Vi<X5@:CjOeX>9gAz^B0
+I1W<]BJh6eQB:U>9HQz_j42
+R2
+R0
+R3
+8Automatic_Garage_Door_Controller_tb.v
+FAutomatic_Garage_Door_Controller_tb.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1725654359.000000
+R5
+R6
+!i113 0
+R7
+R1
+ntb_@automatic_@garage_@door_@controller

@@ -1,0 +1,5 @@
+vlib work
+vlog -f sourcefile.txt
+vsim -voptargs=+accs work.tb_Automatic_Garage_Door_Controller  
+add wave *
+run -all
